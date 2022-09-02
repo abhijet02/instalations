@@ -1,0 +1,20 @@
+https://10.42.53.171/
+administrator@vsphere.local	
+vCenT@R593%&K@3#NS
+
+
+
+eSx!48@%H@$T&9k#7Ns#
+
+
+
+Vmware Esxi	https://10.42.65.241/ui/#/login		root	X@hD$jRK98&%356#@F6mN
+Vmware Esxi	https://10.42.53.17/ui/#/login		root	eSx!48@%H@$T&9k#7Ns#
+Vmware Esxi	https://10.42.65.26/				root	Em636@$FjkFDg98#$&IxN
+https://10.42.65.55/ui/#/login   				root	A@N#894sI%$J5ngj##36NA
+https://10.42.53.43/ui/#/login				root	vExi42&%@gd96$@&tK
+
+
+
+ bR@cN@@6iT5$%3b7M
+

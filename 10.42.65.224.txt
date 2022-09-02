@@ -1,0 +1,16 @@
+ubuntu login if failed----
+
+10.42.65.224
+un : itsupport
+pw : zxcv1234.
+
+
+domain : .
+
+
+Coustom == 1152 *864
+high color=16bpp
+
+
+
+https://unix.stackexchange.com/questions/440803/remmina-cant-remote-into-windows-server
