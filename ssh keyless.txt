@@ -4,27 +4,13 @@ ls -al ~/.ssh/
 
 ssh-copy-id -i ~/.ssh/id_rsa.pub admiral@10.140.0.18
 
-Br@c%*T^467564756
+---------------------
 
-The ssh-copy-id command creates ~/.ssh/authorized_keys on 
-the destination machine if the file doesn’t. Otherwise, 
-ssh-copy-id would append the new key to existing keys.
+PEM format :
 
+ssh-keygen -t rsa -m PEM
+or
+ssh-keygen -b 2048 -f identity -t rsa
+cat identity.pub >> ~/.ssh/authorized_keys
 
-
-
-
-
-
-
-
-
-https://www.itzgeek.com/how-tos/linux/centos-how-tos/ssh-passwordless-login-centos-7-rhel-7.html
-
-
-
-bl@Mobi$Digi%
-
-
-14.8
-9.6
+cp identity publi.pem
